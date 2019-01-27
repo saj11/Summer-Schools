@@ -1,0 +1,2 @@
+# HPC-Summer-School-2017
+GPU Mini Hackathon given in CENAT, San José, Costa Rica. In this mini-hackathon we learned about OpenACC, OpenMP and how to modify a simple code, a weather app, using OpenACC to optimize its performance.
