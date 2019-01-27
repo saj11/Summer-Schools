@@ -7,8 +7,8 @@ Repository for all the summer schools attended through the Computer Science Care
 * [Big Data](https://github.com/saj11/Summer-Schools/tree/master/Big%20Data%20Summer%20School#big-data-summer-school-2018)
 
 ## 2018
-* [Copenhagen Institute of Interaction Design Advance Internet of Things]
+* [Advance Internet of Things](https://github.com/saj11/Summer-Schools/tree/master/IoT#iot-summer-school-2018)
 * [Machine Learning](https://github.com/saj11/Summer-Schools/tree/master/Machine%20Learning%20Summer%20School#hpc-summer-school-2017)
 
 ## 2019
-* [GPU Mini-Hackathon]
+* [GPU Mini-Hackathon](https://github.com/saj11/Summer-Schools/tree/master/GPU#hpc-summer-school-2017)
