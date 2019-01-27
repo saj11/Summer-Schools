@@ -1,0 +1,55 @@
+{
+	"version": 1,
+	"allow_edit": true,
+	"plugins": [],
+	"panes": [
+		{
+			"width": 1,
+			"row": {
+				"3": 1
+			},
+			"col": {
+				"3": 1
+			},
+			"col_width": 1,
+			"widgets": [
+				{
+					"type": "gauge",
+					"settings": {
+						"title": "Temperature",
+						"value": "datasources[\"mymqtt\"][\"undefined\"][\"temperature\"]",
+						"units": "C",
+						"min_value": 0,
+						"max_value": 100
+					}
+				},
+				{
+					"type": "text_widget",
+					"settings": {
+						"title": "counter",
+						"size": "regular",
+						"value": "datasources[\"mymqtt\"][\"undefined\"][\"counter\"]",
+						"animate": true
+					}
+				}
+			]
+		}
+	],
+	"datasources": [
+		{
+			"name": "mymqtt",
+			"type": "mqtt",
+			"settings": {
+				"topic": "/devices/group1/output",
+				"server": "super-painter.cloudmqtt.com",
+				"port": 443,
+				"use_encryption": true,
+				"client_id": "dashboard",
+				"api_key": "group1",
+				"api_auth_token": "0wToLDPMCH16ZEQw",
+				"json_data": true
+			}
+		}
+	],
+	"columns": 3
+}

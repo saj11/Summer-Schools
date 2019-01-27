@@ -1,0 +1,2 @@
+# IoT-Summer-School-2018
+IoT Summer School given in Omar Dengo, San José, Costa Rica. In this summer school we learned about how to make IoT trhough Arduino, and to make a end product. In our team, the product was name SortABot, a little robot that sort Lego blocks. The robot use a perceptron to sort, and telegram to give stadistics, and another stuffs.  
