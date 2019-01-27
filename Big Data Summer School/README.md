@@ -1,2 +1,2 @@
 # Big-Data-Summer-School-2018
-Big Data Summer School given in CENAT, San José, Costa Rica. In this summer school we learned about
+Big Data Summer School given in CENAT, San José, Costa Rica. In this summer school we learned about how to code on Python and R, do data analysis and visualization of data in Python and R, Hadoop and Spark.
